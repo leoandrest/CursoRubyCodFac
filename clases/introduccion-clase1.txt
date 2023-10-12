@@ -1,0 +1,47 @@
+Que es ruby?
+lenguaje de programacion interpretado eso quiere decir que no existe un compilador, no compilamos
+ruby sino que parte de la instalacion incluye un interprete
+- no hay puntos y coma.
+- tipado dinamico.
+-todo es un objeto eso hace que sea flexible el lenguaje.
+-productividad ( puedes crear programas mas rapido que en otros lenguajes)
+- ruby esta inspirado en lisp,perl,smalltalk,eiffel y add
+- busca ser natural, no simple.
+-prefiere el ingles que la puntuacion.
+-hay distintas implementaciones del lenguaje.
+- ha inspirado a la creacion de otros lenguaje (Elixir o CoffeScript)
+
+para que se usa ruby?
+-principialmente para crear app webs.
+-tambien hay utilidades de la terminal escritas en ruby, como SASS originalmente. o Homebrew
+que te permiten crear tus propias herramientas
+-puedes usar ruby para apps moviles nativas con rubyMotion que es herramienta que compila un 
+solo codigo ruby para distintas aplicaciones tipo android,ios. (se puede exportar)
+- puedes crear interfaces graficas con QT o con Swing, usando jRuby(jruby es una implementacion de ruby utilizazndo java),
+tambien pueden crear apps de escritorio con este lenguaje.
+
+
+Quienes usan Ruby?
+empresas que usan Ruby:
+-Basecamp (creadores de ruby on rails)
+-Github
+-Heroku
+-Airbnb
+-KickStarter
+-DigitarOcean
+-TeeSpring
+-Square
+-Tumblr
+-Twitter
+
+-lenguaje de alta demanda en startups porque como es muy productivo.
+
+Por que yo usaria ruby?
+
+- incrementar la productividad
+- te importa la expresividad (que el codigo exprese todo lo que se quiere hacer.)
+- porque es un lenguaje que no te restringue en la parte del tipado, los puntos y coma, 
+que se pueda usar los operadores de una manera mas flexible y eso ruby lo hace muy bien. 
+- no repitir el mismo codigo. (modular)
+- parte de una comunidad activa
+
