@@ -1,7 +1,12 @@
 #ejemplo con evaluaciones
 # 0-10 ; 5 es reprobatorio
 
-print "Dame tu calificacion (1-10): "
+# En Ruby, case se utiliza principalmente cuando se necesita comparar una expresión con múltiples 
+# valores posibles y ejecutar diferentes bloques de código dependiendo del valor de la expresión.
+# Aquí hay algunos casos comunes en los que case es útil:
+
+
+print "Dame tu calificacion (1-0): "
 calificacion = gets.chomp.to_i
 
 puts case calificacion
