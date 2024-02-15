@@ -23,4 +23,4 @@ puts "el promedio de tus calificaciones es #{suma.to_f / calificaciones.length}"
 
 # calificaciones.each do |calificacion|
 #     puts "ahora calificacion vale: #{calificacion}"
-# end
+# end8
